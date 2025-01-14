@@ -1,8 +1,8 @@
 Class {
 	#name : 'AIMain',
 	#superclass : 'Object',
-	#category : 'Pharo-AI',
-	#package : 'Pharo-AI'
+	#category : 'AI-Main',
+	#package : 'AI-Main'
 }
 
 { #category : 'world menu' }
